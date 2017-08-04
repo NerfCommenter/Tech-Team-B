@@ -1,0 +1,9 @@
+import java.io.*;
+class Demo
+{
+  public static void main()
+  {
+    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    System.out.println("Hey, Mihir and Karthik");
+  }
+}
