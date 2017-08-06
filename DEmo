@@ -6,5 +6,6 @@ class Demo
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     System.out.println("Hey, Mihir and Karthik");
     System.out.println("Hi this is Mihir!!");
+    System.out.println("Mihir has got write access");
   }
 }
