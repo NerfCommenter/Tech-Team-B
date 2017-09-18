@@ -1,0 +1,10 @@
+import java.util.*;
+class LT
+{
+  public static void main()
+  {
+    Scanner sc = new Scanner(System.in);
+    //This is the main class for the language translator project.
+    
+  }
+}
