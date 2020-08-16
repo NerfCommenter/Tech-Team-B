@@ -2,16 +2,11 @@
 Hey Guys,
 
 XC - Project, mates.
-We've got four optionS, we gotta pick one. Leave your choice, by editing thiS file:-
-1)Traffic Lights
-2)Language Translator
-3)A search engine.
-4)Make our own topic.
+We made a Language Translator and 
+It's our first team project
 
-Choice
-Dhina - 2) or 4)
-Mihir - null
-Karthik - null
-
-Yours truly,
-Dhina.
+Team members -Dhina
+             -Karthik
+             -Mihir
+             
+We are proud of us.            
